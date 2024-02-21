@@ -1,5 +1,5 @@
 - 👋 Hi, I’m izal
-- 👀 I’m interested in gane UI design
+- 👀 I’m interested in game UI design
 - 🌱 I’m currently learning: C#
 - 📫 How to reach me: izalizzudin18@gmail.com
 - ⚡ Fun fact: there are only 2 genders
